@@ -42,6 +42,6 @@ dataset. Each such notebook produces a single plot in the paper.
 Please feel welcome to contact the authors for further details.
 
 - Vaibhav Bajpai <bajpaiv@in.tum.de>  
-- Saba Ahsan <saba.ahsan@aalto.fi>>  
+- Saba Ahsan <saba.ahsan@aalto.fi>    
 - Jürgen Schönwälder <j.schoenwaelder@jacobs-university.de>  
 - Jörg Ott <ott@in.tum.de>
