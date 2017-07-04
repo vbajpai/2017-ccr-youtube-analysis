@@ -1,0 +1,17 @@
+h3 {
+    color: white;
+    background-color: black;
+    padding: 0.5em;
+}
+
+.CodeMirror {
+    font-family: 'Monaco for Powerline';
+}
+
+div.cell.code_cell {
+    font-family: 'Monaco for Powerline';
+}
+
+div.output_area pre {
+    font-family: 'Monaco for Powerline';
+}
