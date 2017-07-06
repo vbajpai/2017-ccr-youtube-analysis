@@ -22,6 +22,9 @@ The raw dataset and mirrors are available at:
 * Jacobs University Bremen, [here
   &rarr;](http://cnds.eecs.jacobs-university.de/users/vbajpai/yt-ccr-2017/)  
 
+* Aalto University, [here
+  &rarr;](http://www.netlab.tkk.fi/tutkimus/rtc/yt-ccr-2017/)  
+
 It includes the SQL schema `youtube.sql` and the dataset in sqlite3
 format `youtube.db` and the metadata associated with each vantage point.
 
