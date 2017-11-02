@@ -1,6 +1,6 @@
-Measuring YouTube Content Delivery over IPv6  
+[Measuring YouTube Content Delivery over IPv6 &rarr;](https://doi.org/10.1145/3155055.3155057)  
 [ACM SIGCOMM Computer Communication Review &rarr;](http://www.sigcomm.org/publications/computer-communication-review)  
-XXX 2017 (to appear)  
+October 2017
 
 ---  
 
